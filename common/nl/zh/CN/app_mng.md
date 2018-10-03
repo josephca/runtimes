@@ -140,13 +140,6 @@ ibmcloud cf ssh -N -T -L 1883:127.0.0.1:1883 <appName>
 Diego 通过 `ibmcloud cf ssh` 命令提供交互式 shell，因此 *shell* 实用程序仅对 DEA 上运行的应用程序有用。
 {: .tip}
 
-
-##### Eclipse Tools 的开发方式
-{: #devmode}
-开发方式是 [Eclipse Tools for {{site.data.keyword.Bluemix_notm}}](https://console.bluemix.net/docs/manageapps/eclipsetools/eclipsetools.html) 的一种功能，支持开发者处理在云中运行的应用程序。通过 Eclipse Tools 中的开发方式，您可以在 {{site.data.keyword.cloud_notm}} 中使用安全的临时工作空间来处理应用程序。
-
-Liberty 和 Node.js 应用程序都支持开发方式。Liberty 或 Node.js 应用程序启用开发方式后，您可以通过递增方式更新应用程序文件，不需要推送应用程序。您还可以与应用程序建立调试会话。Liberty 应用程序的开发方式相当于启用了 *debug* 和 *jmx*“应用程序管理”实用程序。对于 Node.js 应用程序，相当于启用了 *inspector* 实用程序。
-
 ### Liberty 实用程序
 {: #liberty_utilities}
 

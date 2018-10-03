@@ -36,6 +36,5 @@ lastupdated: "2018-06-21"
 {: #general notoc}
 * [Liberty 프로파일 개요](http://www-01.ibm.com/support/knowledgecenter/SSAW57_8.5.5/com.ibm.websphere.wlp.nd.doc/ae/cwlp_about.html)
 * [Liberty 앱 관리](../common/app_mng.html#Utilities)
-* [IBM Eclipse Tools for {{site.data.keyword.Bluemix_notm}}로 앱 배치](/docs/manageapps/eclipsetools/eclipsetools.html#eclipsetools)
 * [{{site.data.keyword.loganalysislong_notm}} 시작하기](/docs/services/CloudLogAnalysis/index.html)
 * [{{site.data.keyword.prf_hublong}} 시작하기](/docs/services/AvailabilityMonitoring/index.html)

@@ -140,13 +140,6 @@ ibmcloud cf ssh -N -T -L 1883:127.0.0.1:1883 <appName>
 Diego は `ibmcloud cf ssh` コマンドを介した対話式シェルを提供します。したがって、*shell* ユーティリティーは、DEA で実行中のアプリケーションにのみ有用です。
 {: .tip}
 
-
-##### Eclipse Tools の開発モード
-{: #devmode}
-開発モードは、アプリケーションがクラウドで実行されているときに開発者がアプリケーションを操作できるようにする、[Eclipse Tools for {{site.data.keyword.Bluemix_notm}}](https://console.bluemix.net/docs/manageapps/eclipsetools/eclipsetools.html) のフィーチャーです。 Eclipse Tools の開発モードでは、セキュアな一時的ワークスペースを使用して {{site.data.keyword.cloud_notm}} でアプリケーションの作業を行えます。
-
-開発モードは Liberty アプリケーションおよび Node.js アプリケーションの両方でサポートされています。 開発モードを Liberty または Node.js アプリケーション用に使用可能にすると、アプリケーションをプッシュすることなく、アプリケーション・ファイルを増分的に更新できます。 また、アプリケーションとのデバッグ・セッションを確立することもできます。 Liberty アプリケーションの開発モードは、*debug* および *jmx* の「アプリ管理」ユーティリティーを使用可能にした場合と同等です。 Node.js アプリケーションの場合は、*inspector* ユーティリティーを使用可能にした場合と同等です。
-
 ### Liberty 用のユーティリティー
 {: #liberty_utilities}
 

@@ -140,13 +140,6 @@ ibmcloud cf ssh -N -T -L 1883:127.0.0.1:1883 <appName>
 Diego에서 `ibmcloud cf ssh` 명령을 통해 대화식 쉘을 제공하므로, *shell* 유틸리티는 DEA에서 실행 중인 애플리케이션에만 유용합니다.
 {: .tip}
 
-
-##### Eclipse Tools의 개발 모드
-{: #devmode}
-개발 모드는 클라우드에서 실행 중인 동안 개발자에게 자체 애플리케이션에 대해 작업할 수 있는 기능을 제공하는 [Eclipse Tools for {{site.data.keyword.Bluemix_notm}}](https://console.bluemix.net/docs/manageapps/eclipsetools/eclipsetools.html)의 기능입니다. Eclipse Tools의 개발 모드는 사용자가 안전한 임시 작업공간에서 {{site.data.keyword.cloud_notm}}의 애플리케이션에 대해 작업하는 방법을 제공합니다.
-
-개발 모드는 Liberty 및 Node.js 애플리케이션 모두에 대해 지원됩니다. Liberty 또는 Node.js 애플리케이션에 대해 개발 모드가 사용되면 애플리케이션을 푸시하지 않고도 애플리케이션 파일을 점진적으로 업데이트할 수 있습니다. 또한 애플리케이션에서 디버깅 세션을 설정할 수 있습니다. Liberty 애플리케이션의 개발 모드는 *debug* 및 *jmx* App Management 유틸리티를 사용하는 것과 동등합니다. Node.js 애플리케이션의 경우, 이는 *inspector* 유틸리티를 사용하는 것과 동등합니다.
-
 ### Liberty 유틸리티
 {: #liberty_utilities}
 

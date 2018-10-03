@@ -140,13 +140,6 @@ After you access the *shell* utility, a terminal window is displayed with shell 
 Diego provides an interactive shell through the `ibmcloud cf ssh` command, so the *shell* utility is only useful to applications running on a DEA.
 {: .tip}
 
-
-##### Development Mode for Eclipse Tools
-{: #devmode}
-Development mode is a feature of the [Eclipse Tools for {{site.data.keyword.Bluemix_notm}}](https://console.bluemix.net/docs/manageapps/eclipsetools/eclipsetools.html) that gives developers the ability to work with their applications while they are running in the cloud. Development Mode in  Eclipse Tools provides a way for you to work on your applications in {{site.data.keyword.cloud_notm}} with a temporary, secure workspace.
-
-Development mode is supported for both Liberty and Node.js applications. With development mode enabled for your Liberty or Node.js application, you can update application files incrementally without having to push your application. You can also establish a debugging session with your application. Development mode for Liberty applications is equivalent to enabling the *debug* and *jmx* App Management utilities. For Node.js applications, it is equivalent to enabling the *inspector* utility.
-
 ### Liberty utilities
 {: #liberty_utilities}
 

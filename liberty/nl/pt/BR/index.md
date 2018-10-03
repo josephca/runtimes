@@ -38,6 +38,5 @@ O {{site.data.keyword.Bluemix_notm}} fornece vários aplicativos iniciadores Lib
 {: #general notoc}
 * [Visão geral do perfil Liberty](http://www-01.ibm.com/support/knowledgecenter/SSAW57_8.5.5/com.ibm.websphere.wlp.nd.doc/ae/cwlp_about.html)
 * [Gerenciando apps Liberty](../common/app_mng.html#Utilities)
-* [Implementando aplicativos com o IBM Eclipse Tools for {{site.data.keyword.Bluemix_notm}}](/docs/manageapps/eclipsetools/eclipsetools.html#eclipsetools)
 * [ Introdução ao  {{site.data.keyword.loganalysislong_notm}} ](/docs/services/CloudLogAnalysis/index.html)
 * [ Introdução ao  {{site.data.keyword.prf_hublong}} ](/docs/services/AvailabilityMonitoring/index.html)

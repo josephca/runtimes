@@ -140,13 +140,6 @@ Depois de acessar o utilitário *shell*, uma janela do terminal é exibida com a
 O Diego fornece um shell interativo por meio do comando ` bmcloud cf ssh`, portanto, o utilitário *shell* é útil apenas para aplicativos em execução em um DEA.
 {: .tip}
 
-
-##### Modo de desenvolvimento para Eclipse Tools
-{: #devmode}
-Modo de desenvolvimento é um recurso do [Eclipse Tools for {{site.data.keyword.Bluemix_notm}}](https://console.bluemix.net/docs/manageapps/eclipsetools/eclipsetools.html) que fornece aos desenvolvedores a capacidade de trabalhar com seus aplicativos enquanto eles estão em execução na nuvem. O modo de desenvolvimento no Eclipse Tools fornece uma maneira para você trabalhar com seus aplicativos no {{site.data.keyword.cloud_notm}} com uma área de trabalho temporária e segura.
-
-O modo de desenvolvimento é suportado para aplicativos Liberty e Node.js. Com o modo de desenvolvimento ativado para seu aplicativo Liberty ou Node.js, é possível atualizar arquivos de aplicativos incrementalmente sem precisar que enviar seu aplicativo por push. É possível também estabelecer uma sessão de depuração com seu aplicativo. O modo de desenvolvimento para aplicativos Liberty é equivalente à ativação dos utilitários *debug* e *jmx* do App Management. Para aplicativos Node.js, é equivalente à ativação do utilitário *inspector*.
-
 ### Utilitários do Liberty
 {: #liberty_utilities}
 

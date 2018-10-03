@@ -36,6 +36,5 @@ lastupdated: "2018-06-21"
 {: #general notoc}
 * [Liberty 概要文件概述](http://www-01.ibm.com/support/knowledgecenter/SSAW57_8.5.5/com.ibm.websphere.wlp.nd.doc/ae/cwlp_about.html)
 * [管理 Liberty 应用程序](../common/app_mng.html#Utilities)
-* [使用 IBM Eclipse Tools for {{site.data.keyword.Bluemix_notm}} 部署应用程序](/docs/manageapps/eclipsetools/eclipsetools.html#eclipsetools)
 * [{{site.data.keyword.loganalysislong_notm}} 入门](/docs/services/CloudLogAnalysis/index.html)
 * [{{site.data.keyword.prf_hublong}} 入门](/docs/services/AvailabilityMonitoring/index.html)

@@ -36,6 +36,5 @@ Le pack de construction Liberty est utilisé lorsque les types d'applications su
 {: #general notoc}
 * [Présentation de Liberty Profile](http://www-01.ibm.com/support/knowledgecenter/SSAW57_8.5.5/com.ibm.websphere.wlp.nd.doc/ae/cwlp_about.html)
 * [Gestion des applications Liberty](../common/app_mng.html#Utilities)
-* [Déploiement d'applications avec IBM Eclipse Tools for {{site.data.keyword.Bluemix_notm}}](/docs/manageapps/eclipsetools/eclipsetools.html#eclipsetools)
 * [Initiation à {{site.data.keyword.loganalysislong_notm}}](/docs/services/CloudLogAnalysis/index.html)
 * [Initiation à {{site.data.keyword.prf_hublong}}](/docs/services/AvailabilityMonitoring/index.html)

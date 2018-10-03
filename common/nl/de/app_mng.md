@@ -141,12 +141,6 @@ Diego stellt eine interaktive Shell über den Befehl `ibmcloud cf ssh` zur Verf�
 {: .tip}
 
 
-##### Entwicklungsmodus für Eclipse-Tools
-{: #devmode}
-Der Entwicklungsmodus ist ein Feature der [Eclipse Tools for {{site.data.keyword.Bluemix_notm}}](https://console.bluemix.net/docs/manageapps/eclipsetools/eclipsetools.html), das Entwicklern die Arbeit mit ihren Anwendungen ermöglicht, während diese in der Cloud ausgeführt werden. Mit dem Entwicklungsmodus in den Eclipse-Tools können Sie Ihre Anwendungen in {{site.data.keyword.cloud_notm}} in einem temporären, sicheren Arbeitsbereich bearbeiten.
-
-Der Entwicklungsmodus wird sowohl für Liberty- als auch Node.js-Anwendungen unterstützt. Wenn der Entwicklungsmodus für Ihre Liberty- oder Node.js-Anwendung aktiviert ist, können Sie Anwendungsdateien stufenweise bearbeiten, ohne dass Sie eine Push-Operation für Ihre Anwendung durchführen müssen. Sie können auch eine Debugsitzung für Ihre Anwendungen erstellen. Der Entwicklungsmodus für Liberty-Anwendungen ist äquivalent zur Aktivierung der App-Management-Dienstprogramme *debug* und *jmx*. Für Node.js-Anwendungen ist er äquivalent zur Aktivierung des Dienstprogramms *inspector*.
-
 ### Dienstprogramme für Liberty
 {: #liberty_utilities}
 

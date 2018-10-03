@@ -17,11 +17,6 @@ Liberty for Java
     secureWebApp.md
     loggingAndTracing.md
 
-    {: .topicgroup}
-    IBM Eclipse Tools for IBM Cloud verwenden
-        eclipseDevelop.md
-        [Bereitstellung von Apps mit IBM Eclipse Tools for IBM Cloud](../../manageapps/eclipsetools/eclipsetools.html#eclipsetools)
-
     autoConfig.md
     customizingJRE.md
     using_own_jre.md

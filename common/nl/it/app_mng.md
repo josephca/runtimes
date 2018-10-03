@@ -141,13 +141,6 @@ Dopo aver effettuato l'accesso al programma di utilità *shell* viene visualizza
 Diego fornisce una shell interattiva tramite il comando `ibmcloud cf ssh`, per cui il programma di utilità *shell* è utile solo alle applicazioni in esecuzione su un DEA.
 {: .tip}
 
-
-##### Modalità di sviluppo per Eclipse Tools
-{: #devmode}
-La modalità di sviluppo è una funzione di [Eclipse Tools for {{site.data.keyword.Bluemix_notm}}](https://console.bluemix.net/docs/manageapps/eclipsetools/eclipsetools.html) che offre agli sviluppatori la possibilità di utilizzare le proprie applicazioni mentre sono in esecuzione nel cloud. La modalità di sviluppo in Eclipse Tools ti fornisce un modo di utilizzare le tue applicazioni in {{site.data.keyword.cloud_notm}} con uno spazio di lavoro sicuro e temporaneo.
-
-La modalità di sviluppo è supportata sia per le applicazioni Liberty che Node.js. Con la modalità di sviluppo abilitata per la tua applicazione Liberty o Node.js, puoi aggiornare i file di applicazione in modo incrementale senza dover distribuire l'applicazione. Puoi anche stabilire una sessione di debug con la tua applicazione. La modalità di sviluppo per le applicazioni Liberty è equivalente all'abilitazione dei programmi di utilità di Gestione applicazioni *debug* e *jmx*. Per le applicazioni Node.js, è equivalente all'abilitazione del programma di utilità *inspector*.
-
 ### Programmi di utilità Liberty
 {: #liberty_utilities}
 

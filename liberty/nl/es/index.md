@@ -36,6 +36,5 @@ El paquete de compilación de Liberty se utiliza cuando se despliegan los siguie
 {: #general notoc}
 * [Visión general del perfil de Liberty](http://www-01.ibm.com/support/knowledgecenter/SSAW57_8.5.5/com.ibm.websphere.wlp.nd.doc/ae/cwlp_about.html)
 * [Gestión de apps de Liberty](../common/app_mng.html#Utilities)
-* [Despliegue de apps con IBM Eclipse Tools for {{site.data.keyword.Bluemix_notm}}](/docs/manageapps/eclipsetools/eclipsetools.html#eclipsetools)
 * [Iniciación a {{site.data.keyword.loganalysislong_notm}}](/docs/services/CloudLogAnalysis/index.html)
 * [Iniciación a {{site.data.keyword.prf_hublong}}](/docs/services/AvailabilityMonitoring/index.html)

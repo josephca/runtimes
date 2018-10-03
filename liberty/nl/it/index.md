@@ -37,6 +37,5 @@ all'ambiente {{site.data.keyword.Bluemix_notm}}.  Consulta [Utilizzo di applicaz
 {: #general notoc}
 * [Panoramica di Liberty Profile](http://www-01.ibm.com/support/knowledgecenter/SSAW57_8.5.5/com.ibm.websphere.wlp.nd.doc/ae/cwlp_about.html)
 * [Gestione delle applicazioni Liberty](../common/app_mng.html#Utilities)
-* [Distribuzione di applicazioni con IBM Eclipse Tools for {{site.data.keyword.Bluemix_notm}}](/docs/manageapps/eclipsetools/eclipsetools.html#eclipsetools)
 * [Introduzione a {{site.data.keyword.loganalysislong_notm}}](/docs/services/CloudLogAnalysis/index.html)
 * [Introduzione a {{site.data.keyword.prf_hublong}}](/docs/services/AvailabilityMonitoring/index.html)
